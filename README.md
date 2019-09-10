@@ -12,4 +12,5 @@ This is a simple github workflow for my project which contain the main branches:
 
 5. Hotfix - branches off from master. Merges back to develop and master. Similar to release branch, arises from the the need to act immediately upon an undesired state of a live production version.
 
-![gitworkflow](https://user-images.githubusercontent.com/52337688/64575944-d87b4800-d33b-11e9-9bfd-91a830a974e4.jpg)
+![gitworkflow](https://user-images.githubusercontent.com/52337688/64579166-82140680-d347-11e9-932b-a0610d514cf3.jpg)
+
